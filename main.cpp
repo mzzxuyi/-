@@ -1,5 +1,3 @@
-//  Created by 马小帅 on 25.01.21.
-//
 
 #include <iostream>
 #include <string>
